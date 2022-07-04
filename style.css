@@ -1,0 +1,26 @@
+<style>
+p{
+   color:orange;
+   background-color: aliceblue;
+   height: 50px;
+   width: 50%;
+   font-size: 20px;
+}
+h1{
+    color:paleturquoise
+}
+#putin{
+    color:red;
+}
+.rozer{
+    color: olive;
+    background-color: greenyellow;
+
+}
+.ghost{
+
+    color: blue;
+    background-color: aqua;
+}
+
+</style>
